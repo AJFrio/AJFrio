@@ -12,7 +12,7 @@ I’m a developer based in Boulder, CO, obsessed with the intersection of high-s
 
 🧠 R&D: Experimenting with Spiking Neural Networks (SNNs) for HFT strategies.
 
-🏎️ Garage Projects: Building a custom NUC-based headunit for my FJ Cruiser and Suburban.
+🏎️ Garage Projects: Building a custom NUC-based headunit for my Suburban, focusing on custom power management and Linux-based infotainment.
 
 🛠️ My Tech Stack
 
@@ -47,7 +47,7 @@ Quant / AI
 </td>
 <td width="50%">
 <h4>📟 Smart-Dash DIY</h4>
-<p>Custom automotive OS running on a NUC/Pi, featuring vehicle telemetry and custom audio routing.</p>
+<p>Custom automotive OS running on a NUC/Pi, featuring vehicle telemetry and custom audio routing for my Chevy Suburban.</p>
 <code>Python</code> <code>Can-Bus</code> <code>React</code>
 </td>
 </tr>
@@ -56,17 +56,17 @@ Quant / AI
 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D[YOUR_GITHUB_USER]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[YOUR_GITHUB_USER]&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dajfrio%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" />
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dajfrio%26layout%3Dcompact%26theme%3Dtokyonight" />
 </p>
 
 🌲 Beyond the Code
 
 When I'm not pushed to main, you can find me:
 
-🔧 Chevy 350 Maintenance: Keeping the '91 Suburban alive and kicking.
+🔧 Chevy 350 Maintenance: Deep in the engine bay of my '91 Suburban.
 
-🏔️ Overlanding: Testing the FJ Cruiser's wiring on the trails around Boulder.
+🏔️ Colorado Exploration: Taking the truck out for testing around the Boulder trails.
 
 🎥 YouTube: Currently editing builds for my upcoming channel launch!
 
