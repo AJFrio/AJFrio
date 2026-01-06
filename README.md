@@ -1,4 +1,4 @@
-👋 Hi, I'm [Your Name]
+👋 Hi, I'm AJ
 
 <p align="center">
 <b>Full-Stack Architect | Hardware Hacker | Algorithmic Trader | Truck Restoration Enthusiast</b>
