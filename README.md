@@ -1,7 +1,7 @@
 👋 Hi, I'm [Your Name]
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D36BCF7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DFull-Stack%2BArchitect%3BHardware%2BHacker%3BAlgorithmic%2BTrader%3BTruck%2BRestoration%2BEnthusiast" alt="Typing SVG" />
+<b>Full-Stack Architect | Hardware Hacker | Algorithmic Trader | Truck Restoration Enthusiast</b>
 </p>
 
 🚀 The Quick Lowdown
@@ -22,19 +22,19 @@ Tools & Technologies
 
 Frontend
 
-
+Next.js, Astro, TailwindCSS, React
 
 Backend & Edge
 
-
+Cloudflare Workers, Node.js, Hono, PostgreSQL (D1/KV)
 
 Hardware / IoT
 
-
+Raspberry Pi, Intel NUC, Linux, CAN-Bus, Custom Wiring
 
 Quant / AI
 
-
+Python, PyTorch, NumPy, Spiking Neural Networks (SNNs)
 
 🏗️ Featured Projects
 
@@ -43,22 +43,15 @@ Quant / AI
 <td width="50%">
 <h4>🛒 OpenShop</h4>
 <p>A PaaS designed for speed. Deploy full e-commerce stacks to the edge in seconds.</p>
-<code>Next.js</code> <code>Cloudflare D1</code> <code>Hono</code>
+<code>React + Vite</code> <code>Cloudflare D1</code> <code>Hono</code>
 </td>
 <td width="50%">
 <h4>📟 Smart-Dash DIY</h4>
 <p>Custom automotive OS running on a NUC/Pi, featuring vehicle telemetry and custom audio routing for my Chevy Suburban.</p>
-<code>Python</code> <code>Can-Bus</code> <code>React</code>
+<code>JS</code> <code>Can-Bus</code> <code>React</code>
 </td>
 </tr>
 </table>
-
-📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dajfrio%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" />
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dajfrio%26layout%3Dcompact%26theme%3Dtokyonight" />
-</p>
 
 🌲 Beyond the Code
 
@@ -72,9 +65,9 @@ When I'm not pushed to main, you can find me:
 
 📫 Let's Connect
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+LinkedIn: linkedin.com/in/[www.linkedin.com/in/aj-frio]
 
 <p align="center">
+<br />
 <i>"Hardware is eventually soft, if you hit it hard enough."</i>
 </p>
